@@ -1,2 +1,1 @@
-Crc algorytm
 Program napisany w języku C++ oblicza sumę kontrolną przy użyciu algorytmu CRC z wykorzystaniem funkcji XOR dla bitów z pliku tekstowego. Użytkownik podaje nazwę pliku i wielomian CRC (0x82608EDB). Po wyświetleniu kroków operacji XOR, program zapisuje wynik do wybranego pliku. Dodatkowo, zawiera metodę kontrolną sprawdzającą, czy zakodowana wiadomość dzieli się bez reszty przez wielomian CRC.
